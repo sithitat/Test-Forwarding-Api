@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Temp\\BRabbit\\.Net Project\\ForwardingApi\\ForwardingApi.csproj": {}
+    "C:\\Users\\bcc14\\OneDrive\\Documents\\My Documents\\GitHub\\Test-Forwarding-Api\\ForwardingApi.csproj": {}
   },
   "projects": {
-    "D:\\Temp\\BRabbit\\.Net Project\\ForwardingApi\\ForwardingApi.csproj": {
+    "C:\\Users\\bcc14\\OneDrive\\Documents\\My Documents\\GitHub\\Test-Forwarding-Api\\ForwardingApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Temp\\BRabbit\\.Net Project\\ForwardingApi\\ForwardingApi.csproj",
+        "projectUniqueName": "C:\\Users\\bcc14\\OneDrive\\Documents\\My Documents\\GitHub\\Test-Forwarding-Api\\ForwardingApi.csproj",
         "projectName": "ForwardingApi",
-        "projectPath": "D:\\Temp\\BRabbit\\.Net Project\\ForwardingApi\\ForwardingApi.csproj",
+        "projectPath": "C:\\Users\\bcc14\\OneDrive\\Documents\\My Documents\\GitHub\\Test-Forwarding-Api\\ForwardingApi.csproj",
         "packagesPath": "C:\\Users\\bcc14\\.nuget\\packages\\",
-        "outputPath": "D:\\Temp\\BRabbit\\.Net Project\\ForwardingApi\\obj\\",
+        "outputPath": "C:\\Users\\bcc14\\OneDrive\\Documents\\My Documents\\GitHub\\Test-Forwarding-Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bcc14\\AppData\\Roaming\\NuGet\\NuGet.Config"
